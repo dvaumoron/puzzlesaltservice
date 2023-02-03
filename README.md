@@ -1,2 +1,3 @@
 # puzzlesaltservice
-service description to generate and store salt
+
+[gRPC](https://grpc.io/) service description to generate and store salt.
