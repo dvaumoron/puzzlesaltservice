@@ -31,5 +31,5 @@ message Request {
 }
 
 message Response {
-    string salt = 1;
+    bytes salt = 1;
 }
